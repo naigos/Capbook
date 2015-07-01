@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="Configuracion">Configuration</string>
+    <string name="CrearCuenta">Add new account</string>
+    <string name="Nuevo2">New2</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Capbook</string>
+    <string name="bbuscar">Search</string>
+    <string name="cambioperfil">Change name of profile</string>
+    <string name="comentar">Comment</string>
+    <string name="comentarios">Comments</string>
+    <string name="conff">Configuration</string>
+    <string name="crearNombre">Name</string>
+    <string name="crearPass">Password</string>
+    <string name="crearReg">Register</string>
+    <string name="crearcuenta">Add new account</string>
+    <string name="darbaja">Unsubscribe</string>
+    <string name="describ">Write the tittle</string>
+    <string name="encuentra">Write name of person to search</string>
+    <string name="entrar">Enter</string>
+    <string name="galeria">See my photos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="megusta">I liked</string>
+    <string name="nohay">No results found</string>
+    <string name="nohaycomen">Don\'t having comments</string>
+    <string name="nosigues">Don\'t following anybody</string>
+    <string name="nuevo">New</string>
+    <string name="pass">Password</string>
+    <string name="personasquesigues">People whom you follow</string>
+    <string name="salirapl">Exit</string>
+    <string name="selimg">Select image</string>
+    <string name="subimg">Upload image</string>
+    <string name="subirFoto">Upload photo</string>
+    <string name="title_activity_abrir_foto">Open photo</string>
+    <string name="title_activity_buscar">Search</string>
+    <string name="title_activity_configuracion">Capbook</string>
+    <string name="title_activity_galeria">Gallery</string>
+    <string name="title_activity_inicio">Capbook</string>
+    <string name="title_activity_perfil">Profile</string>
+    <string name="title_activity_personas">People</string>
+    <string name="title_activity_preferencias">Capbook</string>
+    <string name="title_activity_principal">Capbook</string>
+    <string name="title_activity_registrar">Capbook</string>
+    <string name="titulo">Title</string>
+    <string name="usuario">User</string>
+    <string name="valorar">Rate</string>
+
+</resources>

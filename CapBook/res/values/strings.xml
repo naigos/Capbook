@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Capbook</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="crearcuenta">Crear Nueva Cuenta</string>
+    <string name="Configuracion">Configuración</string>
+    <string name="title_activity_preferencias">Capbook</string>
+    <string name="title_activity_principal">Capbook</string>
+    <string name="title_activity_inicio">Capbook</string>
+    <string name="title_activity_configuracion">Capbook</string>
+    <string name="title_activity_registrar">Capbook</string>
+    <string name="crearNombre">Nombre</string>
+    <string name="crearPass">Contraseña</string>
+    <string name="CrearCuenta">Registro Nueva Cuenta</string>
+    <string name="crearReg">Registrar</string>
+    <string name="cambioperfil">Cambiar Nombre de Perfil</string>
+    <string name="darbaja">Dar de baja</string>
+    <string name="salirapl">Salir</string>
+    <string name="conff">Configuración</string>
+    <string name="title_activity_personas">Personas</string>
+    <string name="encuentra">Escribe la persona a buscar</string>
+    <string name="bbuscar">Buscar</string>
+    <string name="personasquesigues">Personas a las que sigues</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="title_activity_buscar">Buscar</string>
+    <string name="nohay">No se han encontrado resultados</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="subirFoto">Subir foto</string>
+    <string name="selimg">Seleccionar imagen</string>
+    <string name="subimg">Subir imagen</string>
+    <string name="describ">Escribe el titulo de la foto</string>
+    <string name="title_activity_abrir_foto">AbrirFoto</string>
+    <string name="titulo">Titulo</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="nohaycomen">No hay comentarios</string>
+    <string name="megusta">Me gusta</string>
+    <string name="comentar">Comentar</string>
+    <string name="Nuevo2">Nuevo2</string>
+    <string name="valorar">Valorar</string>
+    <string name="galeria">Ver mis fotos</string>
+    <string name="title_activity_galeria">Galeria</string>
+    <string name="nosigues">No sigues a nadie</string>
+
+</resources>
